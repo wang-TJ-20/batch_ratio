@@ -1,0 +1,4 @@
+Introduce(介绍)
+本代码实现在一个batch里将两个数据集按比例加载，如batch为8时，其中4张图片来自数据集data1,另外4张来自数据集data2。
+Usage(使用方式)
+运行dataloader.py，使用tensorboard查看batch里的图片是否满足要求
